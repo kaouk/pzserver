@@ -1,6 +1,6 @@
-FROM ubuntu:14.04
+FROM ubuntu:latest
 
-MAINTAINER TuRzAm
+MAINTAINER kaouk
 
 # Server Name
 ENV SERVERNAME "servertest"
